@@ -1,6 +1,6 @@
 # RAM/ROM/SWAP/PAGINAÇÃO #
 
-
+<h3>RAM<h3>
 
 <p>Sem a tecnologia da memória RAM(Random Access Memory) seria impossível executar programas, que requerem ações não sequenciais, ou até mesmo buscar arquivos armazenados em um HD, por exemplo, porém ela não é capaz de armazenar um conteúdo permanentemente, só consegue armazenar dados temporariamente, ou seja, em quanto o computador está ligado.
 <p>A memória RAM consegue ler instruções em forma não-sequencial (Memória de Acesso Aleatório), para entendermos melhor o funcionamento da memória RAM vamos pensar em uma mesa de estudos onde se encontra todo material de estudos, como canetas, lápis, borracha, caderno e livros. Os materiais seriam os arquivos e a memória RAM, a mesa, onde tudo se reúne e o trabalho é feito.
@@ -9,7 +9,7 @@
 <p>Para que a memória consiga acessar um número grande de arquivos no HD de uma só vez, como muitos programas atuais exigem, é necessário uma grande quantidade de memória RAM .
 <p>A memória RAM é um chip semelhante a um microprocessador, composto por milhões de transistores e capacitores, o capacitor armazena elétrons, quando ele está carregado, o sistema faz uma leitura com base no código binário, acontecem muitas leituras em uns poucos milésimos de segundo, assim a memória consegue processar todas as ações executadas pelos usuários.
    
-** Largura e velocidade do barramento **
+<h3>Largura e velocidade do barramento<h3>
                                                 
 <p>A capacidade de processamento da memória RAM depende muito da largura e da velocidade do barramento, que são responsáveis pela conexão da memória com os outros componentes, a largura nos diz o número de bits que podem ser enviados ao CPU simultaneamente, a velocidade é o número de vezes que esse grupo de bits pode ser enviado a cada segundo.
 <p>A memória comunica-se com o CPU, enviando ordens a serem executadas, essa comunicação é conhecida como ciclo de barramento, esse período apresenta o desempenho da memória.
