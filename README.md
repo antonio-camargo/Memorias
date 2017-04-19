@@ -1,4 +1,4 @@
-# RAM/ROM/SWAP/PAGINAÇÃO
+# RAM/ROM/SWAP/PAGINAÇÃO #
 
 **<h2>RAM<h2>**
 
