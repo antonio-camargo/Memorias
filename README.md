@@ -1,6 +1,6 @@
 # RAM/ROM/SWAP/PAGINAÇÃO
 
-<h2>RAM<h2>
+**<h2>RAM<h2>**
 
 <p>Sem a tecnologia da memória RAM(Random Access Memory) seria impossível executar programas, que requerem ações não sequenciais, ou até mesmo buscar arquivos armazenados em um HD, por exemplo, porém ela não é capaz de armazenar um conteúdo permanentemente, só consegue armazenar dados temporariamente, ou seja, em quanto o computador está ligado.
 <p>A memória RAM consegue ler instruções em forma não-sequencial (Memória de Acesso Aleatório), para entendermos melhor o funcionamento da memória RAM vamos pensar em uma mesa de estudos onde se encontra todo material de estudos, como canetas, lápis, borracha, caderno e livros. Os materiais seriam os arquivos e a memória RAM, a mesa, onde tudo se reúne e o trabalho é feito.
