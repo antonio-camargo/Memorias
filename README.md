@@ -15,7 +15,7 @@
 <p>A memória comunica-se com o CPU, enviando ordens a serem executadas, essa comunicação é conhecida como ciclo de barramento, esse período apresenta o desempenho da memória.
 <p>Para comprar uma memória é preciso verificar a taxa de transferência, não adianta a memória ter uma frequência alta e a frequência do sistema ser menor, pois a taxa do sistema vai limitar a da memória RAM.
     
- <4h>#DRAM<h4>
+ <h4>#DRAM<h4>
                                                                 
 <p>DRAM ou memória dinâmica de acesso aleatório, um transistor e um capacitor unem-se para formar uma célula de memória, que é responsável por um bit de dados, enquanto o capacitor conserva o bit de informação, o transistor age como um controle, que permite ao chip ler o capacitor ou mudar seu estado, a DRAM costuma ser uma memória mais lenta, pois passa por um processo de refrescamento dos dados, o que leva tempo e deixa a memória lenta.
 
