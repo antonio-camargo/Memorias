@@ -2,8 +2,8 @@
 
 <h4>RAM<h4>
 
-<p>Sem a tecnologia da memória RAM(Random Access Memory) seria impossível executar programas, que requerem ações não sequenciais, ou até mesmo buscar arquivos armazenados em um HD, por exemplo, porém ela não é capaz de armazenar um conteúdo permanentemente, só consegue armazenar dados temporariamente, ou seja, em quanto o computador está ligado.
-<p>A memória RAM consegue ler instruções em forma não-sequencial (Memória de Acesso Aleatório), para entendermos melhor o funcionamento da memória RAM vamos pensar em uma mesa de estudos onde se encontra todo material de estudos, como canetas, lápis, borracha, caderno e livros. Os materiais seriam os arquivos e a memória RAM, a mesa, onde tudo se reúne e o trabalho é feito.
+  Sem a tecnologia da memória RAM(Random Access Memory) seria impossível executar programas, que requerem ações não sequenciais, ou até mesmo buscar arquivos armazenados em um HD, por exemplo, porém ela não é capaz de armazenar um conteúdo permanentemente, só consegue armazenar dados temporariamente, ou seja, em quanto o computador está ligado.
+  A memória RAM consegue ler instruções em forma não-sequencial (Memória de Acesso Aleatório), para entendermos melhor o funcionamento da memória RAM vamos pensar em uma mesa de estudos onde se encontra todo material de estudos, como canetas, lápis, borracha, caderno e livros. Os materiais seriam os arquivos e a memória RAM, a mesa, onde tudo se reúne e o trabalho é feito.
 <p>A memória RAM pode ser entendida como um espaço temporário de trabalho, assim que a tarefa é realizada, os arquivos (material de estudos) são retirados da memória (mesa) e mantidos no HD (armário).
 <p>Assim como a mesa, quanto maior a capacidade da memória RAM, maior sua capacidade de trabalho, a capacidade da mesa é medida em área quadrada, enquanto a capacidade da memória é medida pelo fluxo de bits suportados em suas operações.
 <p>Para que a memória consiga acessar um número grande de arquivos no HD de uma só vez, como muitos programas atuais exigem, é necessário uma grande quantidade de memória RAM .
